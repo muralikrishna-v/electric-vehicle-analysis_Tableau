@@ -52,7 +52,7 @@ The **Tableau Dashboard** provides:
 The **Electric Vehicle Analysis Dashboard** provides **interactive visualizations** to explore **EV adoption trends and market insights**.
 
 ### **📌 Dashboard Screenshot**  
-![Electric Vehicle Analysis Dashboard](images/electric_vehicle_dashboard.png)  
+![Electric Vehicle Analysis Dashboard](https://github.com/muralikrishna-v/electric-vehicle-analysis_Tableau/blob/main/ev%20analysis%20dashboard.png)  
 
 ### **📌 Key Insights & Visualizations**  
 
